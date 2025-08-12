@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-no-empty-first-line-dherault",
+  "version": "0.0.0",
+  "description": "An ESLint v8 plugin to remove the empty first line",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "empty-line",
+    "formatting"
+  ],
+  "author": "dherault",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  }
+}
